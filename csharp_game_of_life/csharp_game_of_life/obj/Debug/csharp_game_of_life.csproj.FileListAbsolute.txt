@@ -1,0 +1,7 @@
+C:\Users\Pavel\source\repos\csharp_game_of_life\csharp_game_of_life\bin\Debug\csharp_game_of_life.exe.config
+C:\Users\Pavel\source\repos\csharp_game_of_life\csharp_game_of_life\bin\Debug\csharp_game_of_life.exe
+C:\Users\Pavel\source\repos\csharp_game_of_life\csharp_game_of_life\bin\Debug\csharp_game_of_life.pdb
+C:\Users\Pavel\source\repos\csharp_game_of_life\csharp_game_of_life\obj\Debug\csharp_game_of_life.csprojAssemblyReference.cache
+C:\Users\Pavel\source\repos\csharp_game_of_life\csharp_game_of_life\obj\Debug\csharp_game_of_life.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\source\repos\csharp_game_of_life\csharp_game_of_life\obj\Debug\csharp_game_of_life.exe
+C:\Users\Pavel\source\repos\csharp_game_of_life\csharp_game_of_life\obj\Debug\csharp_game_of_life.pdb
